@@ -12,6 +12,7 @@ body {
 .details {
   color: #686963;
   font-family: 'Lexend Zetta', monospace;
+
 }
 
 .profile-link {
@@ -43,7 +44,7 @@ a:visited {
 }
 
 .square-three .inner {
-  background: #F4C95D;
+  background: purple;
 }
 
 .outer {
@@ -106,13 +107,13 @@ a:visited {
 
 
 .square-one {
-  left: 4px;
+  left: 8px;
   top: 5px;
 }
 
 .wrap:hover .square-one {
-  left: 0;
-  top: 0;
+  left: -50px;
+  top: -50px;
 }
 
 .square-two {
@@ -121,11 +122,11 @@ a:visited {
 }
 
 .square-three {
-  left: 56px;
-  top: 52px;
+  left: 108px;
+  top: 104px;
 }
 
 .wrap:hover .square-three {
-  left: 104px;
-  top: 104px;
+  left: 150px;
+  top: 150px;
 }
